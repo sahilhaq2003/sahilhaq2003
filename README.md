@@ -24,41 +24,50 @@
 
 ## 🚀 **Tech Stack & Tools**
 
-### **🧠 Data Science & ML**
+### 🧠 Data Science & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,numpy,pandas" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
 </p>
 
-### **🗄️ Databases**
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
 </p>
 
-### **🛠️ Backend & Tools**
+### 🛠️ Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
 </p>
 
-### **🎨 Frontend**
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
-### **⚙️ DevOps & Version Control**
+### ⚙️ DevOps & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,docker" height="45"/>
-</p>
-
----
-
-## 📊 **GitHub Analytics**
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilhaq2003&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhaq2003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilhaq2003&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
 </p>
 
 ---
