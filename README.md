@@ -3,15 +3,15 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sahil+Haq;Data+Science+Undergraduate;Software+Engineering+Student+at+SLIIT;Aspiring+Data+Scientist+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sahil+Haq;Data+Science+Undergraduate;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer;Problem+Solver" />
 </p>
 
 ---
 
 ## 🌟 **About Me**
 🎓 **Data Science Undergraduate**  
-💻 Passionate about **Machine Learning, Data Engineering, and Full-Stack Development**  
-📊 Skilled in **Python, SQL, Analytics, Web Apps & Intelligent Systems**  
+💻 Passionate about **Machine Learning, Data Analytics, and Full-Stack Development**  
+📊 Skilled in **Python, SQL, Pandas, NumPy, ML, Deep Learning & Web Apps**  
 🚀 Always learning, building, and improving!
 
 ---
@@ -20,7 +20,7 @@
 
 ### **🧠 Data Science & ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,matlab,r" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,numpy,pandas" height="45"/>
 </p>
 
 ### **🗄️ Databases**
@@ -35,7 +35,7 @@
 
 ### **🎨 Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" height="45"/>
 </p>
 
 ### **⚙️ DevOps & Version Control**
@@ -61,7 +61,7 @@
 ### 🔹 **Police360 – Police Information Management System**
 A full-stack intelligent police operations system.
 
-🔗 GitHub: **https://github.com/sahilhaq2003/Police360**
+🔗 GitHub: **https://github.com/sahilhaq2003**
 
 ---
 
@@ -78,11 +78,14 @@ A full-stack intelligent police operations system.
   <a href="https://www.linkedin.com/in/sahil-haq-106595222/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:sahilhaq2003@gmail.com">
+  <a href="mailto:sahilhaq622@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/sahilhaq2003">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
 
-### ⭐ **Thank you for visiting! Feel free to explore my repositories.**
+### ⭐ **Thanks for visiting! Explore my repositories and projects.**
