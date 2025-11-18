@@ -1,10 +1,16 @@
 <!-- ========================================================= -->
-<!--         SAHIL HAQ • PROFESSIONAL GITHUB PROFILE README     -->
+<!--                 SAHIL HAQ • GITHUB PROFILE README        -->
 <!-- ========================================================= -->
 
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sahil+Haq;Data+Science+Undergraduate;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer;Problem+Solver" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2F80ED,100:152238&text=Sahil%20Haq&fontColor=ffffff&fontSize=45&fontAlignY=35" />
 </p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer;Problem+Solver" />
+</h1>
 
 ---
 
@@ -45,7 +51,7 @@
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📊 **GitHub Analytics**
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilhaq2003&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhaq2003&layout=compact&theme=tokyonight&hide_border=true" />
@@ -89,3 +95,8 @@ A full-stack intelligent police operations system.
 ---
 
 ### ⭐ **Thanks for visiting! Explore my repositories and projects.**
+
+<!-- ================= FOOTER WAVE ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:152238,100:2F80ED&section=footer" />
+</p>
