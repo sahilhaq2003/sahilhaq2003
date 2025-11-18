@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Full+Stack+Developer;Tech+Explorer" />
 </h1>
 
 <!-- ====================== SOCIAL ICONS ====================== -->
@@ -24,15 +24,38 @@
 ---
 
 ## ⚙️ Tech Stack
+
+### **Data Science & ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,java,mongodb,mysql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" />
+</p>
+
+### **Web & Software Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" />
 </p>
 
 ---
 
 ## ⭐ Featured Project
-### 🚓 **Police360 – Police Information Management System**  
-A full-stack system for managing crime, accidents, investigations & officer data.  
+### 🚓 **Police360 – Police Information Management System**
+A full-stack system for managing crime, accident, investigation & officer data.  
 🔗 **https://github.com/sahilhaq2003/Police360**
 
 ---
@@ -40,12 +63,12 @@ A full-stack system for managing crime, accidents, investigations & officer data
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilhaq2003&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilhaq2003&theme=transparent&hide_border=true" height="150" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sahilhaq2003&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilhaq2003&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhaq2003&layout=compact&theme=transparent&hide_border=true" height="150" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhaq2003&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
